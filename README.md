@@ -9,3 +9,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Faza Dinan Muhammad, [Linkedin](https://www.linkedin.com/in/faza-dinan-muhammad-623b17200).
